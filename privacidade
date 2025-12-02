@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade – carroussel</title>
+    <style>
+        body {
+            max-width: 800px;
+            margin: 40px auto;
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            padding: 0 20px;
+            color: #222;
+        }
+        h1, h2 {
+            color: #111;
+        }
+        a {
+            color: #0077cc;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Política de Privacidade – carroussel</h1>
+
+    <p>Última atualização: 2025</p>
+
+    <h2>1. Introdução</h2>
+    <p>
+        O <strong>carroussel</strong> permite que usuários exibam publicações do próprio perfil do Instagram em sites externos.
+        Este documento explica como tratamos os dados acessados através da API da Meta.
+    </p>
+
+    <h2>2. Informações Coletadas</h2>
+    <p>
+        O aplicativo <strong>não coleta, armazena ou registra dados pessoais</strong>.
+        O único acesso realizado é aos conteúdos públicos do perfil Instagram autorizado pelo usuário,
+        como imagens, vídeos, legendas e identificadores de posts.
+    </p>
+
+    <h2>3. Como Usamos os Dados</h2>
+    <p>
+        Os dados acessados da Instagram Graph API são utilizados exclusivamente para exibir as publicações
+        do usuário em seu próprio site.  
+        Não realizamos:
+    </p>
+    <ul>
+        <li>venda de dados;</li>
+        <li>compartilhamento com terceiros;</li>
+        <li>uso para anúncios;</li>
+        <li>criação de perfis ou rastreamento.</li>
+    </ul>
+
+    <h2>4. Armazenamento</h2>
+    <p>
+        O carroussel <strong>não armazena</strong> nenhuma informação obtida do Instagram.
+        Todo conteúdo é carregado em tempo real diretamente da API.
+    </p>
+
+    <h2>5. Compartilhamento</h2>
+    <p>
+        Nenhuma informação é compartilhada com terceiros.
+    </p>
+
+    <h2>6. Permissões Utilizadas</h2>
+    <p>
+        O aplicativo solicita apenas as permissões mínimas necessárias:
+    </p>
+    <ul>
+        <li><strong>instagram_basic</strong> – para acessar posts e mídia do perfil autorizado.</li>
+        <li><strong>pages_show_list</strong> – para identificar a página conectada à conta Instagram.</li>
+    </ul>
+
+    <h2>7. Segurança</h2>
+    <p>
+        Todas as comunicações ocorrem através de conexões seguras (HTTPS).  
+        Tokens de acesso não são expostos ou armazenados.
+    </p>
+
+    <h2>8. Remoção de Permissões</h2>
+    <p>
+        O usuário pode revogar o acesso a qualquer momento em:
+        <br>
+        <strong>Configurações do Instagram → Aplicativos e Sites → Ativos</strong>.
+    </p>
+
+    <h2>9. Atualizações</h2>
+    <p>
+        Esta política pode ser atualizada para manter conformidade com requisitos da Meta.
+        Alterações serão publicadas nesta página.
+    </p>
+
+    <h2>10. Contato</h2>
+    <p>
+        Para dúvidas ou solicitações, entre em contato:  
+        <br><strong>Email:</strong> privacidade@saovicenteferrer.pe.gov.br
+    </p>
+
+</body>
+</html>
